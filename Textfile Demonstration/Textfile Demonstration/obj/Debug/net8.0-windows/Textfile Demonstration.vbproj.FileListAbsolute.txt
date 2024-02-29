@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\bin\Debug\net8.0-windows\Textfile Demonstration.exe
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\bin\Debug\net8.0-windows\Textfile Demonstration.deps.json
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\bin\Debug\net8.0-windows\Textfile Demonstration.runtimeconfig.json
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\bin\Debug\net8.0-windows\Textfile Demonstration.dll
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\bin\Debug\net8.0-windows\Textfile Demonstration.pdb
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile_Demonstration.Form1.resources
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.dll
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\refint\Textfile Demonstration.dll
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.pdb
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\Textfile Demonstration.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\textfile-demonstration\Textfile Demonstration\Textfile Demonstration\obj\Debug\net8.0-windows\ref\Textfile Demonstration.dll

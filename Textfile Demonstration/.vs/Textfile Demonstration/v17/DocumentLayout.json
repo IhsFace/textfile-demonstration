@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihsaa\\Projects\\textfile-demonstration\\Textfile Demonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B24512-5BC4-4C8D-9F60-BAF17BA92BF1}|Textfile Demonstration\\Textfile Demonstration.vbproj|c:\\users\\ihsaa\\projects\\textfile-demonstration\\textfile demonstration\\textfile demonstration\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{25B24512-5BC4-4C8D-9F60-BAF17BA92BF1}|Textfile Demonstration\\Textfile Demonstration.vbproj|solutionrelative:textfile demonstration\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B24512-5BC4-4C8D-9F60-BAF17BA92BF1}|Textfile Demonstration\\Textfile Demonstration.vbproj|c:\\users\\ihsaa\\projects\\textfile-demonstration\\textfile demonstration\\textfile demonstration\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{25B24512-5BC4-4C8D-9F60-BAF17BA92BF1}|Textfile Demonstration\\Textfile Demonstration.vbproj|solutionrelative:textfile demonstration\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\textfile-demonstration\\Textfile Demonstration\\Textfile Demonstration\\Form1.vb",
+              "RelativeDocumentMoniker": "Textfile Demonstration\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\textfile-demonstration\\Textfile Demonstration\\Textfile Demonstration\\Form1.vb",
+              "RelativeToolTip": "Textfile Demonstration\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-29T03:50:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\textfile-demonstration\\Textfile Demonstration\\Textfile Demonstration\\Form1.vb",
+              "RelativeDocumentMoniker": "Textfile Demonstration\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\textfile-demonstration\\Textfile Demonstration\\Textfile Demonstration\\Form1.vb [Design]",
+              "RelativeToolTip": "Textfile Demonstration\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-29T03:43:17.462Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
